@@ -6,7 +6,7 @@
 	<li>Create a new branch with your name for example Tushar_Garg<br>
 		<i>
 			git checkout -b [branchname]<br>
-			For example: 
+			<b>For example:</b> 
 			git checkout -b Tushar_Garg<br>
 		</i>
 	</li>
@@ -17,11 +17,11 @@
 			git commit -m "Message" <br>
 		</i>
 	</li>
-	<li>After completion of project, push your work to repository using following commands:
+	<li>After completion of project, push your work to repository using following commands:<br>
 		<i>
-			git remote add origin httpsgithub.comhelixsmartlabsFull-stack-developer.git <br>
+			git remote add origin https://github.com/helixsmartlabs/Full-stack-developer <br>
 			git push -u origin [branchname]<br>
-			For example:
+			<b>For example:</b>
 			git push -u origin Tushar_Garg<br>
 		</i>
 	</li>
